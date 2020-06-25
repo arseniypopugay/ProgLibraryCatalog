@@ -1,4 +1,10 @@
 ﻿using System;
+using System.Globalization;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 
 namespace ProgLibraryCatalog
 {
@@ -6,7 +12,9 @@ namespace ProgLibraryCatalog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Drawer.test();
+
+            
         }
     }
 }
